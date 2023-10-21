@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis-Python-Project-for-Diwali-Sale-Analysis.
+# Exploratory-Data-Analysis-Python-Project.
